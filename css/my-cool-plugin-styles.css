@@ -1,0 +1,22 @@
+.widget-button{
+  display: inline-block;
+  min-width: 250px;
+  max-width: 100%;
+  width: auto;
+  padding: 10px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  text-align: center;
+  border: 3px solid grey;
+  background-color: #FFF;
+  color: #222;
+}
+.widget-button.light{
+  background-color: #FFF;
+  color: #222;
+}
+.widget-button.dark{
+  background-color: #222;
+  color: #FFF;
+}
